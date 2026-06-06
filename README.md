@@ -4,7 +4,7 @@
 
 Paste a public GitHub repo and Repo Autopsy performs a full diagnostic — mapping six code-quality vitals onto a living organ system. Complexity, coverage, debt and more, read like a chart at the foot of a hospital bed.
 
-![dashboard](screenshots/landing.png)
+![dashboard](@screenshots/showcase.png)
 
 The six organs:
 
